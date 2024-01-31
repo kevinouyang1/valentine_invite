@@ -14,8 +14,6 @@ function FirstSlide () {
     const [sadFaces, setSadFaces] = useState("");
     const [numberSad, setNumberSad] = useState(0);
 
-
-
     const handleSadFaces = () => {
         if (numberSad >= 50) {
             setSadFaces("YOU DONT LOVE ME YOU HAVE TO");
