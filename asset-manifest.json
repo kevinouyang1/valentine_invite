@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/valentine_invite/static/css/main.4060c22b.css",
+    "main.js": "/valentine_invite/static/js/main.de151581.js",
+    "static/js/787.f67dedf8.chunk.js": "/valentine_invite/static/js/787.f67dedf8.chunk.js",
+    "static/media/collage.jpg": "/valentine_invite/static/media/collage.34fc635ce4848b36df39.jpg",
+    "index.html": "/valentine_invite/index.html",
+    "main.4060c22b.css.map": "/valentine_invite/static/css/main.4060c22b.css.map",
+    "main.de151581.js.map": "/valentine_invite/static/js/main.de151581.js.map",
+    "787.f67dedf8.chunk.js.map": "/valentine_invite/static/js/787.f67dedf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4060c22b.css",
+    "static/js/main.de151581.js"
+  ]
+}
