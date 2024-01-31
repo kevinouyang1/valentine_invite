@@ -1,7 +1,6 @@
 {
   "name": "twenty-twenty-four",
   "version": "0.1.0",
-  "homepage": "https://kevinouyang1.github.io/valentine_invite",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -20,7 +19,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
